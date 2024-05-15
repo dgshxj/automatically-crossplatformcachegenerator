@@ -1,3 +1,1 @@
-const lcm = (a, b) => {
-  return (a * b) / gcd(a, b);
-};
+const initial = (arr) => arr.slice(0, -1);
